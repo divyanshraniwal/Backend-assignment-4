@@ -151,3 +151,9 @@ Clients join a room and exchange `chatMessage` events in real time.
 - 404: resource not found
 - 409: duplicate email
 - 500: unexpected server error
+
+<img width="1917" height="1026" alt="Screenshot 2026-11-25 230606" src="https://github.com/user-attachments/assets/ab4877ef-bd17-42d4-8a41-f41078a81134" />
+<img width="1917" height="1032" alt="Screenshot 2026-11-25 230622" src="https://github.com/user-attachments/assets/07b5f1e9-f53b-4838-8da6-0541682da67f" />
+<img width="1917" height="1027" alt="Screenshot 2026-11-25 230642" src="https://github.com/user-attachments/assets/c70a42bb-7e5f-4b39-8eee-f93ed6ac9553" />
+<img width="1917" height="1028" alt="Screenshot 2026-11-25 230724" src="https://github.com/user-attachments/assets/a32520c8-2218-44fc-8e96-d674c9750b23" />
+<img width="436" height="268" alt="Screenshot 2026-11-25 231104" src="https://github.com/user-attachments/assets/e30f435a-3c24-4b31-8401-184b0e4b0a69" />
